@@ -1,7 +1,3 @@
 # FindIt
-A 24-hour hackathon project to develop an app related to Lost and found concept. 
-Contains a web and android part.
-Web part coded by @nimaipatel @chiragjagad and @ShauryaMagar
-Android part coded by me.
-Contains a portal for lost items and a form to add them.
-Contains a live chat box between user and admin.
+Lost and found management Project for D.J. Sanghvi CSI's 24 hour hackathon.
+Mobile app by [Himanshu](https://github.com/himanshuharlalka) and Web application by [Chirag](https://github.com/chiragjagad), [Shaurya](https://github.com/shauryamagar) and me.
